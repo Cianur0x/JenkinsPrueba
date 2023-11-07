@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b4641424-a8b5-4ba4-b23d-94024a630d51" name="Changes" comment="add Dockerfile">
+    <list default="true" id="b4641424-a8b5-4ba4-b23d-94024a630d51" name="Changes" comment="resolve changes">
+      <change afterPath="$PROJECT_DIR$/mi-manifest.mf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +43,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "onboarding.tips.debug.path": "/home/fernandaalbacura/IdeaProjects/JenkinsPrueba/src/main/java/org/iesvdm/Main.java",
-    "project.structure.last.edited": "SDKs",
+    "project.structure.last.edited": "Artifacts",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "preferences.lookFeel",
@@ -94,7 +93,7 @@
       <updated>1698751690717</updated>
       <workItem from="1698751691753" duration="1517000" />
       <workItem from="1698913358386" duration="21000" />
-      <workItem from="1699351153745" duration="2989000" />
+      <workItem from="1699351153745" duration="4327000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <option name="closed" value="true" />
@@ -136,7 +135,15 @@
       <option name="project" value="LOCAL" />
       <updated>1699354640170</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="resolve changes">
+      <option name="closed" value="true" />
+      <created>1699355861365</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1699355861365</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -147,6 +154,7 @@
     <MESSAGE value="cambio jdk" />
     <MESSAGE value="cambio sdk" />
     <MESSAGE value="add Dockerfile" />
-    <option name="LAST_COMMIT_MESSAGE" value="add Dockerfile" />
+    <MESSAGE value="resolve changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="resolve changes" />
   </component>
 </project>
