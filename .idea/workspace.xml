@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b4641424-a8b5-4ba4-b23d-94024a630d51" name="Changes" comment="probando manifest">
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-    </list>
+    <list default="true" id="b4641424-a8b5-4ba4-b23d-94024a630d51" name="Changes" comment="intento 3 manifest" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -88,7 +86,7 @@
       <workItem from="1698913358386" duration="21000" />
       <workItem from="1699351153745" duration="6108000" />
       <workItem from="1699429063159" duration="11000" />
-      <workItem from="1700564240915" duration="1147000" />
+      <workItem from="1700564240915" duration="1865000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <option name="closed" value="true" />
@@ -178,7 +176,23 @@
       <option name="project" value="LOCAL" />
       <updated>1700564961846</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="intento 2 manifest">
+      <option name="closed" value="true" />
+      <created>1700565475149</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1700565475149</updated>
+    </task>
+    <task id="LOCAL-00013" summary="intento 3 manifest">
+      <option name="closed" value="true" />
+      <created>1700566113775</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1700566113775</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -203,6 +217,8 @@
     <MESSAGE value="resolve changes" />
     <MESSAGE value="añadimos manifest" />
     <MESSAGE value="probando manifest" />
-    <option name="LAST_COMMIT_MESSAGE" value="probando manifest" />
+    <MESSAGE value="intento 2 manifest" />
+    <MESSAGE value="intento 3 manifest" />
+    <option name="LAST_COMMIT_MESSAGE" value="intento 3 manifest" />
   </component>
 </project>
